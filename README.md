@@ -1,5 +1,21 @@
 # project1
 Crime data analysis
+# Crime Data Analysis
+
+This project analyzes crime data using **PySpark** for large-scale processing and visualizes trends using **Matplotlib** and **Seaborn**. It provides insights into crime patterns based on location, time, and type, enabling better decision-making for public safety.
+
+## Features
+- **Data Ingestion**: Ingest large crime datasets and clean them using PySpark.
+- **Data Processing**: Use PySpark to analyze crime trends across different types of crimes.
+- **Data Visualization**: Visualize insights using **Matplotlib** and **Seaborn**.
+
+## Tools and Technologies
+- **Python**, **PySpark**, **Seaborn**, **Matplotlib**, **PowerBI**, **Tableau**
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/crime-data-analysis.git
 
 
 
